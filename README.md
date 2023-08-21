@@ -24,7 +24,7 @@ F1_score: 0.8571428571428572
 
 
 # Statistics:
-![WhatsApp Image 2023-08-21 at 5 58 44 PM](https://github.com/RiyaRaizada/Diabetes_Prediction_with_Deployment/assets/88757064/2ffd2ed2-ca09-4394-996a-0bed883fec5f)
 
+![f921bb40-00be-4470-9e56-07d08d216c50](https://github.com/RiyaRaizada/Diabetes_Prediction_with_Deployment/assets/88757064/678ee04e-93a1-4094-9063-a8d6a6cf1520)
 
 
